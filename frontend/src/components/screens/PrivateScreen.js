@@ -74,7 +74,7 @@ const searchItems = (searchValue) => {
       <div>
      
       <div className="flex items-center justify-evenly bg-green-500">
-        <div>Sparsh Movies</div>
+        <div>Movies</div>
         <button className="bg-white px-4 rounded " onClick={logoutHandler}>
           LogOut
         </button>
